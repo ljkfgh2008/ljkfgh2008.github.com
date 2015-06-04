@@ -971,6 +971,7 @@ figure.highlight {
   text-shadow: 0 0 1px #fff;
   line-height: 1.6;
   overflow: auto;
+  max-height: 200px;
   position: relative;
   font-size: 0.9em;
 }
