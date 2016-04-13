@@ -715,10 +715,10 @@ article footer .addthis iframe {
   top: 0;
   z-index: 999;
   left: 0px;
-  border-right: solid 1px #1b7aca;
+  border-right: solid 1px #fff;
   height: 100%;
   background-color: #1b7aca;
-  background: #1b7aca;
+  background: url("http://luuman.github.io/img/bg.jpg");
   -webkit-box-shadow: 0px 0 0 0 #222;
   box-shadow: 0px 0 0 0 #222;
 }
